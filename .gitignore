@@ -1,0 +1,9 @@
+# Ignorar logs generados por el script
+*.log
+
+# Archivos de sistema de Windows
+Thumbs.db
+Desktop.ini
+
+# Carpetas temporales de PDQ (si las hubiera)
+PDQ/
